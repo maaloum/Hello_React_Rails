@@ -4,13 +4,12 @@ class Api::V1::MessagesController < ApplicationController
     random_number = rand(1..5)
     # return a random greeting
     @greeting = Message.find(random_number)
-    return json_response(@greeting)
-end
+    json_response(@greeting)
+  end
 
-private
+  private
 
-def json_response(object, status = :ok)
-    render json: object, status: status
-end
-
+  def json_response(object, status = :ok)
+    render json: object, status:
+  end
 end

@@ -1,3 +1,3 @@
 class HomesController < ApplicationController
-    render 'index'
+  render 'index'
 end
