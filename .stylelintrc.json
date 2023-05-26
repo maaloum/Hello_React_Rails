@@ -26,8 +26,7 @@
         ]
       }
     ],
-    "csstree/validator": true,
-    "function-calc-no-invalid": null
+    "csstree/validator": true
   },
   "ignoreFiles": ["build/**", "dist/**", "**/reset*.css", "**/bootstrap*.css"]
 }
