@@ -91,11 +91,11 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **DIABY MOHAMMED IBRAHIM**
+👤 **Maaloum Ely Cheicl**
 
-- [GitHub](https://github.com/dmambo)
-- [Twitter](https://twitter.com/kingibro345)
-- [LinkedIn](https://www.linkedin.com/in/dmambo/)
+- [GitHub](https://github.com/maaloum)
+- [Twitter](https://twitter.com/maaloum)
+- [LinkedIn](https://www.linkedin.com/in/maaloum/)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
