@@ -6,8 +6,8 @@
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
 
-Message.create(message: "Welcome to my app")
-Message.create(message: "let us chat!")
-Message.create(message: "This is a react/rails app")
-Message.create(message: "What a great day! seeing you")
-Message.create(message: "It is nice to meet you today")
+Greeting.create(message: "Welcome to my app")
+Greeting.create(message: "let us chat!")
+Greeting.create(message: "This is a react/rails app")
+Greeting.create(message: "What a great day! seeing you")
+Greeting.create(message: "It is nice to meet you today")
