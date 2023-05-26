@@ -70,7 +70,7 @@
 
 ### Setup
 
-- Clone this repository by running `git clone https://github.com/Dmambo/rails-react.git` in your command line.
+- Clone this repository by running `[git clone https://github.com/Dmambo/rails-react.gi](https://github.com/maaloum/Hello_React_Rails.git)t` in your command line.
 
 - Navigate to the repository by running `cd rails-react`.
 
